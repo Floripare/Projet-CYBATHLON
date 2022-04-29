@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/Florian/Desktop/Cours ENSTA/2A/PIE Bras Robotisé/Fichiers des 2022/Livrables/Livrables produit/Codes Arduino",
+      "environment": [],
+      "program": "c:/Users/Florian/Desktop/Cours ENSTA/2A/PIE Bras Robotisé/Fichiers des 2022/Livrables/Livrables produit/Codes Arduino/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

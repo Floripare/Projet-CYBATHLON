@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoboticArm</string>
+    <string name="reinitialiser">Réinitialiser</string>
+    <string name="mode">Mode</string>
+    <string name="position_poignet">Position Poignet</string>
+    <string name="reglages">Réglages</string>
+    <string name="_0"> 0°</string>
+    <string name="_0p">0%</string>
+    <string name="x050_x050">x050:x050</string>
+    <string name="_0d">0°</string>
+    <string name="retour">retour</string>
+</resources>

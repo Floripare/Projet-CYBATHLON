@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Cybathlon",
+			"path": "."
+		},
+		{
+			"name": "Test Arduino Uno",
+			"path": "C:\\Users\\nicol\\Documents\\PlatformIO\\Projects\\Test Arduino Uno"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"initializer_list": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp",
+			"istream": "cpp"
+		}
+	}
+}
